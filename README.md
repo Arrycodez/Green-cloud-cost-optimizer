@@ -21,21 +21,26 @@ Cloud over-provisioning is a silent crisis. Organizations typically waste **30-3
 
 ### 🧠 Neural Optimizer
 Intelligent right-sizing recommendations that analyze CPU, Memory, and Request patterns to suggest the most efficient instance types.
+<img width="1873" height="831" alt="image" src="https://github.com/user-attachments/assets/12cdb5c4-9241-4f46-b344-e1e10774fa46" />
 
 ### 📊 Carbon Ledger
 A transparent, real-time audit of your digital carbon footprint. Track emissions (kg CO2) across regions and instance families with high-fidelity data visualization.
+<img width="1890" height="862" alt="image" src="https://github.com/user-attachments/assets/664bd6b7-3abf-47cb-9167-c735d78017ee" />
 
 ### 🤖 Automation Engine
 Autonomous rules that act on your behalf:
 - **Auto-Scaling**: Dynamic resource adjustment based on traffic.
 - **Idle Shutdown**: Terminate resources with low utilization automatically.
 - **Carbon-Aware Shifting**: Move non-critical workloads to "greener" regions during peak intensity.
+<img width="1879" height="845" alt="image" src="https://github.com/user-attachments/assets/a4aa4ded-0921-4b9b-97d2-f5578a2ee982" />
 
 ### 🛡️ System Guardrails
 Enforce operational safety with real-time risk monitoring. Set hard limits on monthly budget, CPU utilization, and carbon emissions to prevent "bill shock" and environmental breaches.
+<img width="1876" height="855" alt="image" src="https://github.com/user-attachments/assets/c5087b05-115f-4e58-a8ac-be3a1251ed27" />
 
 ### ⚙️ Multi-Cloud Config
 Seamlessly switch between AWS, GCP, and Azure. Customize your optimization priority—from "Budget First" to "Eco First"—to align with your corporate ESG goals.
+<img width="1765" height="788" alt="image" src="https://github.com/user-attachments/assets/88893c4e-0812-4495-9c4d-00f0b708ce58" />
 
 ---
 
